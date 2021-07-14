@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mrunning (fork) TestKafka1 [0m
+[0m[[0m[31merror[0m] [0m[0mERROR StatusLogger No Log4j 2 configuration file found. Using default configuration (logging only errors to the console), or user programmatically provided configurations. Set system property 'log4j2.debug' to show Log4j 2 internal initialization logging. See https://logging.apache.org/log4j/2.x/manual/configuration.html for instructions on how to configure Log4j 2[0m
+[0m[[0m[31merror[0m] [0m[0mWARNING: An illegal reflective access operation has occurred[0m
+[0m[[0m[31merror[0m] [0m[0mWARNING: Illegal reflective access by org.apache.flink.api.java.ClosureCleaner (file:/Users/macbookpro/.m2/repository/org/apache/flink/flink-core/1.12.0/flink-core-1.12.0.jar) to field java.util.Properties.serialVersionUID[0m
+[0m[[0m[31merror[0m] [0m[0mWARNING: Please consider reporting this to the maintainers of org.apache.flink.api.java.ClosureCleaner[0m
+[0m[[0m[31merror[0m] [0m[0mWARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations[0m
+[0m[[0m[31merror[0m] [0m[0mWARNING: All illegal access operations will be denied in a future release[0m
+[0m[[0m[0minfo[0m] [0m[0m+----+-------------------------+--------------------------------+----------------------+----------------------+[0m
+[0m[[0m[0minfo[0m] [0m[0m| op |               startTime |                       actionId |               EXPR$2 |               EXPR$3 |[0m
+[0m[[0m[0minfo[0m] [0m[0m+----+-------------------------+--------------------------------+----------------------+----------------------+[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:43 |                         (NULL) |                    1 |               (NULL) |[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:44 |                         (NULL) |                    1 |               (NULL) |[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:45 |                         (NULL) |                    1 |               (NULL) |[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:46 |                         (NULL) |                    2 |               (NULL) |[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:47 |                         (NULL) |                    2 |               (NULL) |[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:48 |                         (NULL) |                    2 |               (NULL) |[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:49 |                         (NULL) |                    3 |               (NULL) |[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:50 |                         (NULL) |                    3 |               (NULL) |[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:51 |                         (NULL) |                    3 |               (NULL) |[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:52 |                         (NULL) |                    3 |               (NULL) |[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:53 |                         (NULL) |                    2 |               (NULL) |[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:54 |                         (NULL) |                    2 |               (NULL) |[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:55 |                         (NULL) |                    2 |               (NULL) |[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:56 |                         (NULL) |                    1 |               (NULL) |[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:57 |                         (NULL) |                    1 |               (NULL) |[0m
+[0m[[0m[0minfo[0m] [0m[0m| +I |     2021-07-14T21:56:58 |                         (NULL) |                    1 |               (NULL) |[0m
+[0m[[0m[33mwarn[0m] [0m[0mRun canceled.[0m

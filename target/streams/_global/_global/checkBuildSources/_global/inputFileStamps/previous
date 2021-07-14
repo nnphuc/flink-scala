@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/macbookpro/learn/flink-scala/build.sbt","a75d5301af108fcf3a44b29f27b8479eed1c6860"],["/Users/macbookpro/learn/flink-scala/project/assembly.sbt","f041c30515dc3e5db108bf315ffb31b27cc35f4c"]],"lastModifiedTimes":[]}]

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.flink:force-shading:1.12.0:jar">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/flink/force-shading/1.12.0/force-shading-1.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

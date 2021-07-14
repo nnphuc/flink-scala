@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.scala-lang.modules:scala-parser-combinators_2.11:1.1.1:jar">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/modules/scala-parser-combinators_2.11/1.1.1/scala-parser-combinators_2.11-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/modules/scala-parser-combinators_2.11/1.1.1/scala-parser-combinators_2.11-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
